@@ -117,27 +117,15 @@ Swagger provides:
 
 ### Location Service Swagger
 
-Add screenshot here:
 
-```markdown
 ![Location Service Swagger](screenshots/location-swagger.png)
-```
+
 
 ### Ride Service Swagger
 
-Add screenshot here:
 
-```markdown
 ![Ride Service Swagger](screenshots/ride-swagger.png)
-```
 
-Recommended repository structure:
-
-```text
-screenshots/
-├── location-swagger.png
-└── ride-swagger.png
-```
 
 ---
 
